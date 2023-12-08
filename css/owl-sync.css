@@ -1,0 +1,85 @@
+#sync1 .item {
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center
+}
+
+#sync2 {
+    border-top: none;
+    margin-top: -10px
+}
+
+#sync2 .owl-wrapper-outer {
+    overflow: inherit
+}
+
+#sync2 .item {
+    display: table;
+    vertical-align: middle;
+    position: relative;
+    background: #fff;
+    text-align: center;
+    cursor: pointer;
+    height: 79px;
+    font-size: 13px;
+    width: 100%;
+    border-right: 1px solid #d4d4d4;
+    border-bottom: 1px solid #d4d4d4;
+    color: #656565
+}
+
+#sync2 .item h3 {
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18px;
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    padding: 0 15px
+}
+
+#sync2 .current .item {
+    background-color: #ed1c24;
+    color: #ffffff;
+    margin-left: -1px;
+}
+
+#sync2 .owl-item.current .item h3 {
+    font-size: 13px;
+    font-weight: bold
+}
+
+#sync2 .owl-item:first-child .item {
+    border-left: 1px solid #d4d4d4
+}
+
+.owl-theme .owl-nav [class*='owl-'] {
+    transition: all .3s ease
+}
+
+.owl-theme .owl-nav [class*='owl-'].disabled:hover {
+    background-color: #D6D6D6
+}
+
+#sync1.owl-theme {
+    position: relative
+}
+
+#sync1.owl-theme .owl-next,
+#sync1.owl-theme .owl-prev {
+    width: 40px;
+    height: 58px;
+    margin-top: -20px;
+    position: absolute;
+    top: 50%
+}
+
+#sync1.owl-theme .owl-prev {
+    left: 10px
+}
+
+#sync1.owl-theme .owl-next {
+    right: 10px
+}
