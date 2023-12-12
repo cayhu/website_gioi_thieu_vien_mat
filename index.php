@@ -58,7 +58,7 @@ include_once('header.php');
         </h2>
         <div class="home1__box">
             <div class="home1__item">
-                <a class="text__item" href="khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php">
+                <a class="text__item" href="khiem-tra-chuan-doan/a.php">
                     <img alt="Bọc răng sứ Nano Ceramic" class="img__h1 full_image"
                         src="./images/backgroud/dvu.png">
                     <span>Kiểm Tra Độ Cận Thị và Viễn Thị</span>
@@ -169,115 +169,115 @@ include_once('header.php');
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="5">
                                 <img alt="Nguyễn Lê Vân"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/nguyen-le-van.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="6">
                                 <img alt="Lê Văn Đồi"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/le-van-doi.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="7">
                                 <img alt="Vũ Văn Tiến"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-tien-dat.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="8">
                                 <img alt="Chuyên Gia Trang Điểm Đức Lộc"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-van-trang.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="9">
                                 <img alt="KH Bảo Ngọc"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/bui-xuat-ngu-1.jpg">
+                                    src="/images/logo/icon-logo.pngg">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 702px;">
                             <div class="item" data-hash="1">
                                 <img alt="MC Hoàng Dương"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/mc-hoang-duong.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="2">
                                 <img alt="Diễn Viên Công Dũng"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/dien-vien-cong-dung.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="3">
                                 <img alt="Phạm Thu Trang"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/11/29/thu-trang-large.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="4">
                                 <img alt="Ms Vân Hà"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/10/25/ms-van-ha.png">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="5">
                                 <img alt="Nguyễn Lê Vân"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/nguyen-le-van.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="6">
                                 <img alt="Lê Văn Đồi"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/le-van-doi.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="7">
                                 <img alt="Vũ Văn Tiến"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-tien-dat.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="8">
                                 <img alt="Chuyên Gia Trang Điểm Đức Lộc"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-van-trang.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 702px;">
                             <div class="item" data-hash="9">
                                 <img alt="KH Bảo Ngọc"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/bui-xuat-ngu-1.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="1">
                                 <img alt="MC Hoàng Dương"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/mc-hoang-duong.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="2">
                                 <img alt="Diễn Viên Công Dũng"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/dien-vien-cong-dung.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="3">
                                 <img alt="Phạm Thu Trang"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/11/29/thu-trang-large.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="4">
                                 <img alt="Ms Vân Hà"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/10/25/ms-van-ha.png">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 702px;">
                             <div class="item" data-hash="5">
                                 <img alt="Nguyễn Lê Vân"
-                                    src="https://static.nhakhoavietduc.com.vn/2019/09/25/nguyen-le-van.jpg">
+                                    src="/images/logo/icon-logo.png">
                             </div>
                         </div>
                     </div>
@@ -291,33 +291,33 @@ include_once('header.php');
 
             <div class="tabs" id="sync1-tab">
                 <a class="tab url" href="#1">
-                    <img class="1" src="https://static.nhakhoavietduc.com.vn/2019/09/25/mc-hoang-duong-thumb.jpg"
+                    <img class="1" src="/images/logo/icon-logo.png"
                         alt="">
                 </a>
                 <a class="tab url" href="#2">
-                    <img class="2" src="https://static.nhakhoavietduc.com.vn/2019/09/25/dien-vien-cong-dung-thumb.jpg"
+                    <img class="2" src="/images/logo/icon-logo.png"
                         alt="">
                 </a>
                 <a class="tab url" href="#3">
-                    <img class="3" src="https://static.nhakhoavietduc.com.vn/2019/11/28/thu-trang-small.jpg" alt="">
+                    <img class="3" src="/images/logo/icon-logo.png" alt="">
                 </a>
                 <a class="tab url" href="#4">
-                    <img class="4" src="https://static.nhakhoavietduc.com.vn/2019/10/25/ms-van-ha-thumb.png" alt="">
+                    <img class="4" src="/images/logo/icon-logo.png" alt="">
                 </a>
                 <a class="tab url" href="#5">
-                    <img class="5" src="https://static.nhakhoavietduc.com.vn/2019/09/25/nguyen-le-van-thumb.jpg" alt="">
+                    <img class="5" src="/images/logo/icon-logo.png" alt="">
                 </a>
                 <a class="tab url" href="#6">
-                    <img class="6" src="https://static.nhakhoavietduc.com.vn/2019/09/25/len-van-doi-thumb.jpg" alt="">
+                    <img class="6" src="/images/logo/icon-logo.png" alt="">
                 </a>
                 <a class="tab url" href="#7">
-                    <img class="7" src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-tien-dat-thumb.jpg" alt="">
+                    <img class="7" src="/images/logo/icon-logo.png" alt="">
                 </a>
                 <a class="tab url" href="#8">
-                    <img class="8" src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-van-trang-thumb.jpg" alt="">
+                    <img class="8" src="/images/logo/icon-logo.png" alt="">
                 </a>
                 <a class="tab url" href="#9">
-                    <img class="9" src="https://static.nhakhoavietduc.com.vn/2019/09/25/bui-xuat-ngu-thumb.jpg" alt="">
+                    <img class="9" src="/images/logo/icon-logo.png" alt="">
                 </a>
             </div>
         </div>
@@ -355,7 +355,7 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Chúc mừng 76 năm ngày truyền thống Công An Nhân Dân"
-                                            src="https://static.nhakhoavietduc.com.vn/2021/08/19/a9925ef47151860fdf40.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="tintuc/chuc-mung-70-nam.php">
                                             Chúc mừng 76 năm ngày truyền thống Công An Nhân Dân
                                         </a>
@@ -368,12 +368,12 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Bệnh Viện Mắt Sài Gòn Phú Thọ TUYỂN GẤP vị trí Chăm sóc khách hàng"
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/03/3757.jpg">
-                                        <a class="dec" href="tintuc/nha-khoa-quoc-te.php">
+                                            src="/images/logo/icon-logo.png">
+                                        <a class="dec" href="">
                                             Bệnh Viện Măt Sài Gòn TUYỂN GẤP vị trí Chăm sóc khách hàng
                                         </a>
                                         <br>
-                                        <a class="read-more" href="tintuc/nha-khoa-quoc-te.php">
+                                        <a class="read-more" href="">
                                             Đọc tiếp &gt;&gt;
                                         </a>
                                     </div>
@@ -381,7 +381,7 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Phòng ngừa Virus Corona ăn gì để tăng sức đề kháng ?"
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/04/virus-corona.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Phòng ngừa Virus Corona ăn gì để tăng sức đề kháng ?
                                         </a>
@@ -394,7 +394,7 @@ include_once('header.php');
                                 <div class="owl-item active" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Hướng dẫn phòng Virus Corona từ bác sĩ chuyên khoa "
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/05/corona1.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Hướng dẫn phòng Virus Corona từ bác sĩ chuyên khoa
                                         </a>
@@ -406,8 +406,8 @@ include_once('header.php');
                                 </div>
                                 <div class="owl-item active" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
-                                        <img alt="Nha khoa Quốc tế Việt Đức -  Đồng hành chăm sóc nụ cười của bạn"
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/11/romantic-couple-photo-facebook-post.jpg">
+                                        <img alt="Bệnh viện mắt sài gòn -  Đồng hành chăm sóc nụ cười của bạn"
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Nha khoa Quốc tế Việt Đức - Đồng hành chăm sóc nụ cười của bạn
                                         </a>
@@ -420,12 +420,12 @@ include_once('header.php');
                                 <div class="owl-item active" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Niềng răng sớm đẹp sớm hấp dẫn với lãi suất 0đ"
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/15/862958802714056308702812594103172285333504o.jpg">
-                                        <a class="dec" href="khuyen-mai/nieng-rang-som.php">
+                                            src="/images/logo/icon-logo.png">
+                                        <a class="dec" href="">
                                             Niềng răng sớm đẹp sớm hấp dẫn với lãi suất 0đ
                                         </a>
                                         <br>
-                                        <a class="read-more" href="khuyen-mai/nieng-rang-som.php">
+                                        <a class="read-more" href="">
                                             Đọc tiếp &gt;&gt;
                                         </a>
                                     </div>
@@ -433,7 +433,7 @@ include_once('header.php');
                                 <div class="owl-item active" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Câu chuyện khách hàng: Chị Hiền Trang – Chỉnh nha giúp mình hoàn toàn tự tin "
-                                            src="https://static.nhakhoavietduc.com.vn/2021/07/11/khach-hang-nieng-rang-nguyen-hien-trang.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Câu chuyện khách hàng: Chị Hiền Trang – Chỉnh nha giúp mình hoàn toàn tự tin
                                         </a>
@@ -446,7 +446,7 @@ include_once('header.php');
                                 <div class="owl-item active" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Cảm ơn bác sĩ từ lúc sinh ra hôm nay em mới cười xinh và tự tin thế này"
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/15/screenshot1.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Cảm ơn bác sĩ từ lúc sinh ra hôm nay em mới cười xinh và tự tin thế này
                                         </a>
@@ -459,7 +459,7 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Thùy Linh: Từ cô nàng lạnh lùng trở nên thân thiện tràn đầy năng lượng sau niềng răng Braces 6S"
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/17/8617586212288071939825885814939974193119232o.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="cau-hoi-thuong-gap/tu-co-nang-lanh-lung.php">
                                             Thùy Linh: Từ cô nàng lạnh lùng trở nên thân thiện tràn đầy năng lượng sau
                                             niềng răng Braces 6S
@@ -473,7 +473,7 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Tháng 2/2020: Tuyển dụng nhân viên Lễ Tân Thu Ngân "
-                                            src="https://static.nhakhoavietduc.com.vn/2020/02/03/191138-oxnfsf-410-1024x1024-1-1024x480.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Tháng 2/2020: Tuyển dụng nhân viên Lễ Tân Thu Ngân
                                         </a>
@@ -486,7 +486,7 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt=" Virus Corona: Phòng bệnh hơn chữa bệnh "
-                                            src="https://static.nhakhoavietduc.com.vn/2020/01/31/virus-corona-la-gi.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="">
                                             Virus Corona: Phòng bệnh hơn chữa bệnh
                                         </a>
@@ -499,7 +499,7 @@ include_once('header.php');
                                 <div class="owl-item" style="width: 218px; margin-right: 20px;">
                                     <div class="item">
                                         <img alt="Review tiệc tất niên 2019 - Công ty Cổ Phần y Dược Quốc tế Việt Đức "
-                                            src="https://static.nhakhoavietduc.com.vn/2020/01/16/screenshot1.jpg">
+                                            src="/images/logo/icon-logo.png">
                                         <a class="dec" href="tin-ve-mat/review-tiec-tat-nien.php">
                                             Review tiệc tất niên 2019 - Công ty Cổ Phần y Dược Quốc tế Việt Đức
                                         </a>

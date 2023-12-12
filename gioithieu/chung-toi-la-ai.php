@@ -164,7 +164,7 @@ else{
                                             <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php" rel="nofollow" title="Tiểu phẫu - Thủ thuật">
+                                                        <a href="../khiem-tra-chuan-doan/a.php" rel="nofollow" title="Tiểu phẫu - Thủ thuật">
                                                             Tiểu phẫu - Thủ thuật
                                                         </a>
                                                     </li>
@@ -375,7 +375,7 @@ else{
                         <div class="item-4">
                     <ul>
                     <li>
-                <a href="../khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php" target="_self">
+                <a href="../khiem-tra-chuan-doan/a.php" target="_self">
                     Tiểu phẫu - Thủ thuật
                 </a>
             </li>

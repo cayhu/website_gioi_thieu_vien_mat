@@ -18,30 +18,30 @@ include_once('../header-phu.php');
         </div>
         <div class="tieu_bieu__box">
             <div class="banner">
-                <a><img src="https://static.nhakhoavietduc.com.vn/2019/09/25/mc-hoang-duong.jpg" alt=""></a>
-                <a><img src="https://static.nhakhoavietduc.com.vn/2019/09/25/dien-vien-cong-dung.jpg" alt=""></a>
+                <a><img src="/images/logo/icon-logo.png" alt=""></a>
+                <a><img src="/images/logo/icon-logo.png" alt=""></a>
             </div>
             <div class="owl-carousel owl-theme">
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/11/29/thu-trang-large.jpg"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/10/25/ms-van-ha.png"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/09/25/nguyen-le-van.jpg"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/09/25/le-van-doi.jpg"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-tien-dat.jpg"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/09/25/vu-van-trang.jpg"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
                 <div class="item">
-                    <a><img alt="" src="https://static.nhakhoavietduc.com.vn/2019/09/25/bui-xuat-ngu-1.jpg"></a>
+                    <a><img alt="" src="/images/logo/icon-logo.png"></a>
                 </div>
             </div>
         </div>

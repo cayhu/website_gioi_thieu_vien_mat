@@ -108,7 +108,7 @@
                                             <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php"
+                                                        <a href="../khiem-tra-chuan-doan/a.php"
                                                             rel="nofollow" title="Tiểu phẫu - Thủ thuật">
                                                             Tiểu phẫu - Thủ thuật
                                                         </a>

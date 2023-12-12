@@ -11,7 +11,7 @@ include_once('../header-phu.php');
         </h2>
         <div class="home1__box">
             <div class="home1__item">
-                <a class="text__item" href="../khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php">
+                <a class="text__item" href="../khiem-tra-chuan-doan/a.php">
                     <img alt="Bọc răng sứ Nano Ceramic" class="img__h1 full_image"
                         src="../images/backgroud/dvu.png">
                     <span>Bọc răng sứ Nano Ceramic</span>
