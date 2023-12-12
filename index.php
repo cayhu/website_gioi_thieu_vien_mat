@@ -88,7 +88,7 @@ include_once('header.php');
                 </a>
             </div>
             <div class="home1__item">
-                <a class="text__item" href="khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php">
+                <a class="text__item" href="khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php">
                     <img alt="Niềng răng Braces 6S" class="img__h1 full_image"
                         src="./images/backgroud/dvu.png">
                     <span>Tổn Thương Điều Trị Nếu Có</span>
@@ -500,11 +500,11 @@ include_once('header.php');
                                     <div class="item">
                                         <img alt="Review tiệc tất niên 2019 - Công ty Cổ Phần y Dược Quốc tế Việt Đức "
                                             src="https://static.nhakhoavietduc.com.vn/2020/01/16/screenshot1.jpg">
-                                        <a class="dec" href="tin-nha-khoa/review-tiec-tat-nien.php">
+                                        <a class="dec" href="tin-ve-mat/review-tiec-tat-nien.php">
                                             Review tiệc tất niên 2019 - Công ty Cổ Phần y Dược Quốc tế Việt Đức
                                         </a>
                                         <br>
-                                        <a class="read-more" href="tin-nha-khoa/review-tiec-tat-nien.php">
+                                        <a class="read-more" href="tin-ve-mat/review-tiec-tat-nien.php">
                                             Đọc tiếp &gt;&gt;
                                         </a>
                                     </div>

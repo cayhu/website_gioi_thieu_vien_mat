@@ -9,8 +9,7 @@ include_once('../header-phu.php');
                     Kiểm Tra Chẩn Đoán »
                 </span>
                 <b>
-                    Cắt lợi thẩm mỹ công nghệ Laser 3.0 hiện đại của Mỹ, quy trình nhanh gọn, không để lại
-                    sẹo cho nụ cười đẹp và chuẩn tỉ lệ
+                    Laser quang đông võng mạc ngoại vi
                 </b>
             </span>
         </span>
@@ -23,15 +22,13 @@ include_once('../header-phu.php');
             include_once('../sub.php');
             ?>
             <div class="col-lg-9 col-md-9 col-sm-9 col-xs-6 post__right">
-                <h1 class="title-post">Cắt lợi thẩm mỹ công nghệ Laser 3.0 hiện đại của Mỹ, quy trình nhanh
-                    gọn, không để lại sẹo cho nụ cười đẹp và chuẩn tỉ lệ</h1>
+                <h1 class="title-post">Laser quang đông võng mạc ngoại vi khi nào? </h1>
                 <section class="content loaded">
                     <div class="chi-tiet scroll_check">
                         <div class="post_info">
-                            <div class="post_author pc">Tác giả: <a>admin</a> * Tham vấn y khoa: <a>Chuyên gia Nha Khoa
-                                    Quốc Tế Việt Đức</a></div>
+                            <div class="post_author pc">Tác giả: <a>admin</a> * Tham vấn y khoa: <a>Chuyên gia Bệnh Viện Mắt Sài Gòn Phú Thọ</a></div>
                             <div class="post_info_box">
-                                <p><i class="fa-solid fa-calendar"></i> 23/09/2019</p>
+                                <p><i class="fa-solid fa-calendar"></i> 23/09/2023</p>
                             </div>
                         </div>
                         <div class="sapo">Cắt lợi thẩm mỹ công nghệ Laser 3.0&nbsp;hiện đại của Mỹ, quy trình
@@ -136,149 +133,7 @@ include_once('../header-phu.php');
                             <p style="text-align: center;"><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>&nbsp;Tỉ
                                         lệ nụ cười chuẩn với khuôn mặt</em></span></p>
-                            <h2><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>III/
-                                        Quy trình cắt lợi thẩm mỹ Laser 3.0 tại Nha khoa Quốc tế Việt
-                                        Đức</strong></span></h2>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dưới sự dẫn dắt
-                                    của <span style="color: #3366ff;"><a style="color: #3366ff;" href="">Ts.Bs.Trịnh Đức
-                                            Mậu</a></span><strong><em>,</em></strong> nha
-                                    khoa Quốc tế Việt Đức tự hào là <strong>địa chỉ cắt lợi thẩm mỹ uy tín</strong> được
-                                    đông đảo khách hàng và giới chuyên gia đánh giá cao, với quy trình thực hiện đạt
-                                    chuẩn của bộ y tế:</span>
-                            </p>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em><span
-                                            style="color: #ff6600;">Bước 1: Khám và tư vấn</span></em>
-                                </span>
-                            </p>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Bác sĩ sẽ
-                                    khám tổng quát tình trạng răng miệng của khách hàng, có phương pháp điều
-                                    trị với những bệnh lý (nếu có). Tính toán số răng cần cắt lợi thẩm mỹ
-                                    và tỉ lệ tương ứng cho mỗi răng.</span></p>
-                            <p><span
-                                    style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Bước
-                                        2: Vệ sinh khoang miệng và gây tê tại chỗ</em></span></p>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Làm sạch
-                                    toàn bộ khoang miệng, lấy cao răng, mảng bám trên răng (nếu có) và tiến
-                                    hành gây tê vùng lợi thực hiện.</span></p>
-                            <p><span
-                                    style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Bước
-                                        3: Phẫu thuật cắt lợi bằng tia Laser</em></span></p>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dựa trên tỉ
-                                    lệ đã được xác định trước, bác sĩ sẽ sử dụng tia laser để tạo đường
-                                    viền thẩm mỹ trên răng, cắt phần lợi thừa tạo nụ cười cân đối và hài
-                                    hòa với khuôn mặt.</span></p>
-                            <p><span
-                                    style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Bước
-                                        4: Hoàn thiện và hẹn lịch tái khám</em></span></p>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Bác sĩ sẽ
-                                    tiến hành vệ sinh lại khoang miệng, sát khuẩn và hẹn lịch khách hàng sau
-                                    1 tuần sẽ tái khám.</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/quy-trinh-cat-loi-tham-my.jpg"
-                                            alt="quy-trinh-cat-loi-tham-my" width="560"></a></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Quy trình
-                                        cắt lợi chuẩn quốc tế</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em><a
-                                            href=""><img
-                                                src="../icon/dang-ky-tu-van-icon.png"
-                                                alt="dang-ky-tu-van" width="229" height="84"></a></em></span></p>
-                            <h2><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><span
-                                        style="font-size: 14px;"><strong>IV/ Khách hàng cắt lợi thẩm mỹ tại Nha
-                                            khoa Quốc tế Việt Đức</strong></span>&nbsp;</span>
-                            </h2>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Tại nha khoa
-                                    Quốc tế Việt Đức, chúng tôi luôn chú trọng đến tỷ lệ chuẩn giữa nướu – răng – môi
-                                    trong việc thực hiện <strong>cắt lợi thẩm mỹ</strong>, kiến tạo nụ cười đẹp phù hợp
-                                    nhất với khuôn mặt của từng khách hàng:</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my2.jpg"
-                                            alt="khach-hang-cat-loi-tham-my2" width="560"></a>&nbsp;</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Nguyễn
-                                        Hồng Hạnh, 37 tuổi, Hà Nội, cắt lợi thẩm mỹ và bọc sứ</em></span>
-                            </p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my3.jpg"
-                                            alt="khach-hang-cat-loi-tham-my3" width="560"></a>&nbsp;</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Lê Thu
-                                        Huyền, 37 tuổi, Hà Nội, cắt lợi thẩm mũ và bọc sứ</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my1.jpg"
-                                            alt="khach-hang-cat-loi-tham-my1" width="560"></a></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Nguyễn Thị
-                                        Tuyết, 34 tuổi, Hải Phòng, cắt lợi thẩm mỹ và bọc sứ</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my4.jpg"
-                                            alt="khach-hang-cat-loi-tham-my4" width="560"></a></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Phạm Thu
-                                        Trang, 26 tuổi, Hải Dương, cắt lợi thẩm mỹ</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my5.jpg"
-                                            alt="khach-hang-cat-loi-tham-my5" width="560"></a>&nbsp;</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Hoàng Thúy
-                                        Vân, 33 tuổi, Bắc Giang, cắt lợi thẩm mỹ và bọc sứ</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my6.jpg"
-                                            alt="khach-hang-cat-loi-tham-my6" width="560"></a>&nbsp;</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Bùi Huyền,
-                                        22 tuổi, Hà Tây, cắt lợi thẩm mỹ</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/khach-hang-cat-loi-tham-my7.jpg"
-                                            alt="khach-hang-cat-loi-tham-my7" width="560"></a></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Hoàng Thùy
-                                        Dương, 17 tuổi, Hà Nội, cắt lợi thẩm mỹ&nbsp;<br>(*) Kết quả sẽ phụ
-                                        thuộc vào cơ địa của từng người.<br></em></span></p>
-                            <p style="text-align: left;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>Đặt lịch
-                                        tư vấn và chăm sóc miễn phí với bác sĩ Nha khoa Quốc tế Việt Đức,
-                                        tại đây.</em></span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><a
-                                        style="color: #008080;" title="Đăng ký tư vấn" href="" rel="nofollow"><em><img
-                                                src="https://static.nhakhoavietduc.com.vn/2017/07/28/dang-ky-tu-van%20%282%29.png"
-                                                alt="dang-ky-tu-van" width="160"></em></a></span></p>
-                            <h2><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>V/
-                                        Bảng giá cắt lợi thẩm mỹ tại Nha khoa Quốc tế Việt
-                                        Đức</strong></span></h2>
-                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Bên cạnh yếu tố
-                                    thẩm mỹ, địa chỉ nha khoa uy tín, <strong>cắt lợi giá bao nhiêu</strong> cũng là vấn
-                                    đề được đông đảo khách hàng quan tâm. Dưới đây là bảng giá cắt lợi thẩm mỹ laser
-                                    chính xác nhất 2020:</span></p>
-                            <p style="text-align: center;"><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
-                                        rel="nofollow"><img
-                                            src="https://static.nhakhoavietduc.com.vn/2017/08/07/bang-gia-cat-loi-tham-my.jpg"
-                                            alt="bang-gia-cat-loi-tham-my" width="560"></a></span></p>
-                            <p style="text-align: center;"><em><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Bảng giá cắt
-                                        lợi thẩm mỹ laser 3.0 2020</span></em></p>
+                            
                             <h2><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>VI/
                                         Tại sao nên lựa chọn cắt lợi thẩm mỹ tại Nha khoa Quốc tế Việt
@@ -318,7 +173,7 @@ include_once('../header-phu.php');
                             <p style="text-align: center;"><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em><a
                                             href=""><img
-                                                src="../icon/dang-ky-tu-van-icon.png"
+                                                src="../images/icon/dang-ky-tu-van-icon.png"
                                                 alt="dang-ky-tu-van" width="229" height="84"></a></em></span></p>
                             <h2><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>VII/

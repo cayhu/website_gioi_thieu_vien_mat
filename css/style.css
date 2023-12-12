@@ -319,7 +319,7 @@
     .service-detail-desc img,
     .service-detail-desc p img,
     .service-detail-desc p span img {
-        width: 100%;
+        /*width: 100%;*/
     }
     
     .post_desc p,
@@ -6961,7 +6961,7 @@
         text-transform: uppercase;
         font-size: 18px;
         margin: 20px 0 !important;
-        padding: 0 !important
+        padding: 0 10px 0 0 !important
     }
     
     @media (max-width: 414px) {

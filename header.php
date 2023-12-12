@@ -125,65 +125,25 @@
                                                             Khám mắt chuyên sâu
                                                         </a>
                                                     </li>
+                                                    
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <ul>
                                                     <li>
-                                                        <a href="khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php"
+                                                        <a href="khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php"
                                                             rel="nofollow" title="Điều trị laser">
                                                             Điều trị laser
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Nieng-rang-mat-trong.php"
-                                                            rel="nofollow" title="Điều trị Glaucoma">
-                                                            Điều trị Glaucoma
-                                                        </a>
-                                                    </li>
+                                                    
                                                     <li>
                                                         <a href="khiem-tra-chuan-doan/Tay-trang-rang.php" rel="nofollow"
                                                             title="Điều trị các bệnh về mắt">
                                                             Điều trị các bệnh về mắt
                                                         </a>
                                                     </li>
-                                                </ul>
-                                            </div>
-                                            <div class="col-lg-6">
-                                                <ul>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Dinh-da-len-rang.php" rel="nofollow"
-                                                            title="Dịch kính võng mạc">
-                                                            Dịch kính võng mạc
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Nieng-rang-tao-cam-V-line.php"
-                                                            rel="nofollow" title="Tạo hình thẩm mỹ mắt">
-                                                            Tạo hình thẩm mỹ mắt
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Tram-rang-tham-my-laser.php"
-                                                            rel="nofollow" title="Chẩn đoán hình ảnh">
-                                                            Chẩn đoán hình ảnh
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Tram-rang-khenh.php" rel="nofollow"
-                                                            title="Nhược thị">
-                                                            Nhược thị
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php"
-                                                            rel="nofollow"
-                                                            title="Xét nghiệm">
-                                                            Xét nghiệm
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="khiem-tra-chuan-doan/Nieng-rang-trong-suot-Invisalign.php"
-                                                            rel="nofollow" title="Kiểm soát cận thị tiến triển">
-                                                            Kiểm soát cận thị tiến triển
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                         </div>
@@ -219,26 +179,7 @@
                                                         <a href="nha-khoa-benh-ly/Nho-rang-an- toan-song-sieu-am-Piezotome.php"
                                                             rel="nofollow"
                                                             title="Phẫu thuật Femto">
-                                                            Phẫu thuật Femto
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="nha-khoa-benh-ly/Dieu-tri-viem-nha-chu.php"
-                                                            rel="nofollow" title="Phẫu thuật Lasik dao OUP">
-                                                            Phẫu thuật Lasik dao OUP
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="nha-khoa-benh-ly/Lay-cao-rang-song-sieu-am.php"
-                                                            rel="nofollow"
-                                                            title="Crosslinking Khúc xạ">
-                                                            Crosslinking Khúc xạ
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="nha-khoa-benh-ly/Nha-khoa-tre-em.php" rel="nofollow"
-                                                            title="Phẫu thuật Phakic ICL EVO+">
-                                                            Phẫu thuật Phakic ICL EVO+
+                                                            Phẫu thuật Femto Phakic ICL EVO+
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -257,31 +198,7 @@
                                                             Phẫu thuật Lác
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tram-rang-tham-my-laser.php"
-                                                            rel="nofollow" title="Phẫu thuật Glôcôm (Glaucoma)">
-                                                            Phẫu thuật Glôcôm (Glaucoma)
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tram-rang-khenh.php" rel="nofollow"
-                                                            title="Phẫu thuật Kết Mạc, Giác Mạc">
-                                                            Phẫu thuật Kết Mạc, Giác Mạc
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php"
-                                                            rel="nofollow"
-                                                            title="Phẫu thuật Mộng">
-                                                            Phẫu thuật Mộng
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-trong-suot-Invisalign.php"
-                                                            rel="nofollow" title="Phẫu thuật Quặm">
-                                                            Phẫu thuật Quặm
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                         </div>
@@ -319,24 +236,7 @@
                                                             Bảng giá Cấy ghép Implant
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="../bang-gia/Bang-gia-tay-trang-rang.php" rel="nofollow"
-                                                            title="Bảng giá Tẩy trắng răng">
-                                                            Bảng giá Tẩy trắng răng
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../bang-gia/Bang-gia-tram-rang-tham-my.php"
-                                                            rel="nofollow" title="Bảng giá Trám răng thẩm mỹ">
-                                                            Bảng giá Trám răng thẩm mỹ
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../bang-gia/Bang-gia-han-rang.php" rel="nofollow"
-                                                            title="Bảng giá Hàn răng">
-                                                            Bảng giá Hàn răng
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                             

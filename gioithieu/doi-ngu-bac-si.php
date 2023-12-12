@@ -179,55 +179,23 @@ else{
                                                             Khám mắt chuyên sâu
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php" rel="nofollow" title="Điều trị laser">
-                                                            Điều trị laser
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-mat-trong.php" rel="nofollow" title="Điều trị Glaucoma">
-                                                            Điều trị Glaucoma
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tay-trang-rang.php" rel="nofollow" title="Điều trị các bệnh về mắt">
-                                                            Điều trị các bệnh về mắt
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Dinh-da-len-rang.php" rel="nofollow" title="Dịch kính võng mạc">
-                                                            Dịch kính võng mạc
+                                                        <a href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php" rel="nofollow" title="Điều trị laser">
+                                                            Điều trị laser
                                                         </a>
                                                     </li>
+                                                    
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-tao-cam-V-line.php" rel="nofollow" title="Tạo hình thẩm mỹ mắt">
-                                                            Tạo hình thẩm mỹ mắt
+                                                        <a href="../khiem-tra-chuan-doan/Tay-trang-rang.php" rel="nofollow" title="Điều trị các bệnh về mắt">
+                                                            Điều trị các bệnh về mắt
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tram-rang-tham-my-laser.php" rel="nofollow" title="Chẩn đoán hình ảnh">
-                                                            Chẩn đoán hình ảnh
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tram-rang-khenh.php" rel="nofollow" title="Nhược thị">
-                                                            Nhược thị
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php" rel="nofollow" title="Xét nghiệm">
-                                                            Xét nghiệm
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-trong-suot-Invisalign.php" rel="nofollow" title="Kiểm soát cận thị tiến triển">
-                                                            Kiểm soát cận thị tiến triển
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                         </div>
@@ -263,26 +231,7 @@ else{
                                                         <a href="nha-khoa-benh-ly/Nho-rang-an- toan-song-sieu-am-Piezotome.php"
                                                             rel="nofollow"
                                                             title="Phẫu thuật Femto">
-                                                            Phẫu thuật Femto
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="nha-khoa-benh-ly/Dieu-tri-viem-nha-chu.php"
-                                                            rel="nofollow" title="Phẫu thuật Lasik dao OUP">
-                                                            Phẫu thuật Lasik dao OUP
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="nha-khoa-benh-ly/Lay-cao-rang-song-sieu-am.php"
-                                                            rel="nofollow"
-                                                            title="Crosslinking Khúc xạ">
-                                                            Crosslinking Khúc xạ
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="nha-khoa-benh-ly/Nha-khoa-tre-em.php" rel="nofollow"
-                                                            title="Phẫu thuật Phakic ICL EVO+">
-                                                            Phẫu thuật Phakic ICL EVO+
+                                                            Phẫu thuật Femto Phakic ICL EVO+
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -301,31 +250,7 @@ else{
                                                             Phẫu thuật Lác
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tram-rang-tham-my-laser.php"
-                                                            rel="nofollow" title="Phẫu thuật Glôcôm (Glaucoma)">
-                                                            Phẫu thuật Glôcôm (Glaucoma)
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Tram-rang-khenh.php" rel="nofollow"
-                                                            title="Phẫu thuật Kết Mạc, Giác Mạc">
-                                                            Phẫu thuật Kết Mạc, Giác Mạc
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php"
-                                                            rel="nofollow"
-                                                            title="Phẫu thuật Mộng">
-                                                            Phẫu thuật Mộng
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-trong-suot-Invisalign.php"
-                                                            rel="nofollow" title="Phẫu thuật Quặm">
-                                                            Phẫu thuật Quặm
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                         </div>
@@ -363,24 +288,7 @@ else{
                                                             Bảng giá Cấy ghép Implant
                                                         </a>
                                                     </li>
-                                                    <li>
-                                                        <a href="../bang-gia/Bang-gia-tay-trang-rang.php" rel="nofollow"
-                                                            title="Bảng giá Tẩy trắng răng">
-                                                            Bảng giá Tẩy trắng răng
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../bang-gia/Bang-gia-tram-rang-tham-my.php"
-                                                            rel="nofollow" title="Bảng giá Trám răng thẩm mỹ">
-                                                            Bảng giá Trám răng thẩm mỹ
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="../bang-gia/Bang-gia-han-rang.php" rel="nofollow"
-                                                            title="Bảng giá Hàn răng">
-                                                            Bảng giá Hàn răng
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                             
@@ -467,66 +375,36 @@ else{
                     </div>
                     <div class="item-4">
                     <ul>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php" target="_self">
-                                Tiểu phẫu - Thủ thuật
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Dan-su-Veneer.php" target="_self">
-                                Khám mắt tổng quát
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Trong-rang-implant.php" target="_self">
-                                Khám mắt chuyên sâu
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php" target="_self">
-                                Điều trị laser
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Nieng-rang-mat-trong.php" target="_self">
-                                Điều trị Glaucoma
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Dinh-da-len-rang.php" target="_self">
-                                Điều trị các bệnh về mắt
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Tay-trang-rang.php" target="_self">
-                                Dịch kính võng mạc
-                        </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Nieng-rang-mat-trong.php" target="_self">
-                                Tạo hình thẩm mỹ mắt
-                        </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php" target="_self">
-                                Chẩn đoán hình ảnh
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Trong-rang-implant.php" target="_self">
-                                Nhược thị
-                        </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Dan-su-Veneer.php" target="_self">
-                                Xét nghiệm
-                            </a>
-                        </li>
-                        <li>
-                            <a href="../khiem-tra-chuan-doan/Nieng-rang-trong-suot-Invisalign.php" target="_self">
-                            Kiểm soát cận thị tiến triển
-                            </a>
-                        </li>
+                    <li>
+                <a href="../khiem-tra-chuan-doan/Boc-rang-su-Nano-Ceramic.php" target="_self">
+                    Tiểu phẫu - Thủ thuật
+                </a>
+            </li>
+            <li>
+                <a href="../khiem-tra-chuan-doan/Dan-su-Veneer.php" target="_self">
+                    Khám mắt tổng quát
+                </a>
+            </li>
+            <li>
+                <a href="../khiem-tra-chuan-doan/Trong-rang-implant.php" target="_self">
+                    Khám mắt chuyên sâu
+                </a>
+            </li>
+            <li>
+                <a href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php" target="_self">
+                    Điều trị laser
+                </a>
+            </li>
+            <li>
+                <a href="../khiem-tra-chuan-doan/Nieng-rang-mat-trong.php" target="_self">
+                    Điều trị Glaucoma
+                </a>
+            </li>
+            <li>
+                <a href="../khiem-tra-chuan-doan/Dinh-da-len-rang.php" target="_self">
+                    Điều trị các bệnh về mắt
+                </a>
+            </li>
                     </ul>
                     </div>
 
@@ -578,26 +456,7 @@ else{
                                 Phẫu thuật Lác
                         </a>
                         </li>
-                        <li>
-                        <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                                Phẫu thuật Glôcôm (Glaucoma)
-                        </a>
-                        </li>
-                        <li>
-                        <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                                Phẫu thuật Kết Mạc, Giác Mạc
-                        </a>
-                        </li>
-                        <li>
-                        <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                                Phẫu thuật Mộng
-                        </a>
-                        </li>
-                        <li>
-                        <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                                Phẫu thuật Quặm
-                        </a>
-                        </li>
+                        
                     </ul>
                 </div>
 
@@ -703,21 +562,21 @@ else{
                     <section class="content loaded">
                         <div class="chi-tiet scroll_check">
                             <div class="post_info">
-                                <div class="post_author pc">Tác giả: <a>admin</a> * Tham vấn y khoa: <a>Chuyên gia Về Mắt Quốc Tế Tại Bệnh Viện Mắt Sài Gòn </a></div>
+                                <div class="post_author pc">Tác giả: <a>admin</a> * Tham vấn y khoa: <a>Chuyên gia Về Mắt Quốc Tế Tại Bệnh Viện Mắt Sài Gòn Phú Thọ</a></div>
                                 <div class="post_info_box">
-                                    <p><i class="fa-solid fa-calendar"></i> 07/08/2019</p>
+                                    <p><i class="fa-solid fa-calendar"></i> 07/08/2023</p>
                                 </div>
                             </div>
-                            <div class="sapo">Khách hàng khi đến với nha khoa Quốc tế Việt Đức sẽ được thăm khám trực tiếp bởi đội ngũ y bác sĩ trên 15 năm kinh nghiệm, chuyên sâu về răng hàm mặt và thẩm mỹ, tốt nghiệp tại các trường đại
-                                học lớn, như: Đại học Răng Hàm Mặt, Đại học Y Hà Nội...</div>
+                            <div class="sapo">Khách hàng khi đến với Bệnh Viện Mắt Sài Gòn Phú Thọ sẽ được thăm khám trực tiếp bởi đội ngũ y bác sĩ trên 15 năm kinh nghiệm, chuyên sâu các vấn đề về mắt và thẩm mỹ, tốt nghiệp tại các trường đại
+                                học lớn, như: Đại học Y Dược Đại học Y Hà Nội...</div>
                             <div class="post_desc">
                                 <h2><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><strong>1. ĐỘI NGŨ Y BÁC SĨ TRÊN 15 NĂM KINH NGHIỆM</strong></span></h2>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Sau hơn 12 năm thành lập, nha khoa Quốc tế Việt Đức đang sở hữu đội ngũ y bác sĩ với kinh nghiệm thực tế trên 15 năm. Thực hiện thành công hơn 20.000 ca mỗi năm, trong đó có đến 5.000 ca cấy ghép Implant và hơn 12.000 ca niềng răng và phục hình răng sứ thẩm mỹ...</span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Không chỉ dừng lại ở đó, đội ngũ y bác sĩ còn thường xuyên được tham gia các lớp đào tạo và tu nghiệp nâng cao tay nghề chuyên môn ở cả trong và ngoài nước. Được nhận chuyển giao công nghệ trực tiếp từ các chuyên gia tới từ Châu Âu. Ứng dụng thành thạo các công nghệ tân tiến vào trong quá trình thực hiện, giúp nâng cao hiệu quả và tăng thêm nhiều lợi ích cho khách hàng.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Sau hơn 12 năm hoạt động, Bệnh Viện Mắt Sài Gòn Phú Thọ đang sở hữu đội ngũ bác sĩ có trên 15 năm kinh nghiệm thực tế. Thực hiện thành công hơn 20.000 ca khám và điều trị mỗi năm, trong đó có hơn 5.000 ca phẫu thuật đục thủy tinh thể, hơn 12.000 ca điều trị cận thị bằng kỹ thuật tia Laser hiện đại.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Không chỉ vậy, đội ngũ bác sĩ còn thường xuyên được tham gia đào tạo và tu nghiệp nâng cao chuyên môn tại các nước tiên tiến về mắt. Được chuyển giao trực tiếp công nghệ và kỹ thuật từ châu Âu. Áp dụng các công nghệ tiên tiến trong quá trình khám và điều trị giúp nâng cao chất lượng và mang lại hiệu quả tốt nhất cho người bệnh.</span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-12.jpg" alt="bac-si-nhan-giai-thuong" width="560"></span></p>
-                                <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em>Bác sĩ Mậu vinh dự được Chủ Tịch Nước Trần Đại Quang trao tặng kỷ niệm Chương</em></span></p>
+                                <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em>Bác sĩ Tiến sĩ Lê Minh Hà vinh dự được Chủ Tịch Nước Trần Đại Quang trao tặng kỷ niệm Chương</em></span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-11.jpg" alt="nhan-giai-thuong" width="560"></span></p>
-                                <h2><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><strong>2. ĐỘI NGŨ BÁC SĨ ĐƯỢC ĐÀO TẠO CHUYÊN SÂU VỀ RĂNG HÀM MẶT VÀ THẨM MỸ</strong></span></h2>
+                                <h2><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><strong>2. ĐỘI NGŨ BÁC SĨ ĐƯỢC ĐÀO TẠO CHUYÊN SÂU CÁC VẤN ĐỀ VỀ MĂT VÀ THẨM MỸ</strong></span></h2>
                                 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Đội ngũ y bác sĩ tại Nha khoa Quốc tế Việt Đức đều là những người có trình độ chuyên môn cao, tốt nghiệp tại các trường đại học danh tiếng, như: Đại học Răng Hàm Mặt, đại học Y Hà Nội… Hơn nữa, trong suốt quá trình làm việc, các y bác sĩ thường xuyên tham gia những khóa tu nghiệp chuyên sâu về Implant, Chỉnh nha, Phục hình thẩm mỹ tại Ý, Pháp, Mỹ và Hàn Quốc, nhằm nâng cao trình độ chuyên môn của bản thân.</span></p>
                                 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Đặc biệt, không chỉ chuyên sâu về răng hàm mặt, đội ngũ y bác sĩ còn được đào tạo chuyên sâu về thẩm mỹ. Không đơn giản là điều trị nha khoa, các bác sĩ tại Nha khoa Quốc tế Việt Đức sẽ thiết kế lại nụ cười đẹp tự nhiên phù hợp với từng khách hàng.</span></p>
                                 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Tại nha khoa Quốc tế Việt Đức, mỗi bác sĩ sẽ đảm nhận một kỹ thuật chuyên môn đặc thù, như: bệnh lý răng miệng, làm răng thẩm mỹ, phục hình răng Implant, chỉnh nha… Giúp nâng cao hiệu quả làm việc và tạo sự chuyên nghiệp trong từng khâu nhỏ nhất.</span></p>
@@ -727,25 +586,22 @@ else{
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-03.jpg" alt="bac-si-mau-thuc-hien-cho-benh-nhan" width="560"></span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">&nbsp;<em>Bác sĩ tại Nha Khoa Quốc Tế Việt Đức đang điều trị cho bênh nhân</em></span></p>
                                 <h2><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><strong>3. KHÔNG NGỪNG NÂNG CAO TRÌNH ĐỘ CHUYÊN MÔN QUA CÁC CHƯƠNG TRÌNH ĐÀO TẠO TRONG VÀ NGOÀI NƯỚC</strong></span></h2>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Nha khoa Việt Đức luôn chú trọng đến công tác đào tạo về chuyên môn theo cơ chế định kỳ. Các lớp đào tạo thường niên theo tháng và quý, nhằm mục đích nâng cao tay nghề và cập nhật những kiến thức chuyên môn mới. Đồng thời, thông qua các khóa đào tạo này, những công nghệ mới, hiện đại cũng sẽ được phổ biến và đưa vào hoạt động, giúp nâng cao tay nghề và trình độ bác sĩ ở mức chuyên nghiệp.</span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Kết hợp với những khóa đào tạo trong nước, nha khoa Quốc tế Việt Đức còn tổ chức các khóa tu nghiệp tại nước ngoài cho đội ngũ y bác sĩ. Đây đều là những cái nôi của ngành nha khoa và thẩm mỹ, như: Pháp, Mỹ, Ý, Hàn Quốc.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Bệnh Viện Mắt Sài Gòn Phú Thọ luôn chú trọng công tác đào tạo chuyên môn định kỳ cho đội ngũ bác sĩ. Các lớp đào tạo thường niên theo tháng và quý được tổ chức nhằm nâng cao tay nghề, cập nhật kiến thức và kỹ thuật mới về khám và điều trị bệnh lý mắt.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Bên cạnh đó, phòng khám cũng thường xuyên cử các bác sĩ tham gia các khóa tu nghiệp tại các quốc gia phát triển hàng đầu thế giới về lĩnh vực mắt như Pháp, Anh, Mỹ... Điều này giúp đội ngũ y bác sĩ tiếp cận được kỹ thuật điều trị tiên tiến, nâng cao trình độ chuyên môn đáp ứng nhu cầu điều trị ngày càng cao của người bệnh.</span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-04.jpg" alt="bac-si-dao-tao" width="560"></span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em>Bác sĩ tại Nha Khoa QT Việt Đức thường xuyên được đào tạo về chuyên môn</em></span></p>
                                 <h2><span style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><strong>4. ĐỘI NGŨ Y BÁC SĨ LUÔN ĐỀ CAO LỢI ÍCH CỦA KHÁCH HÀNG</strong></span></h2>
                                 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Đối với người làm y, bất kể ở vị trí nào, tài luôn phải đi cùng với đức. Đội ngũ y bác sĩ luôn lựa chọn lợi ích của khách hàng làm kim chỉ nam cho mọi hoạt động.</span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">-&nbsp;<strong>Khám và tư vấn hoàn toàn miễn phí</strong>: khách hàng khi sử dụng dịch vụ tại nha khoa sẽ được hỗ trợ tư vấn và thăm khám hoàn toàn miễn phí cả trước và sau khi điều trị.</span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">-&nbsp;<strong>Luôn lựa chọn giải pháp hiệu quả và tối ưu cho khách hàng</strong>: trước mỗi ca điều trị, bác sĩ tại Nha khoa Việt Đức luôn nỗ lực tìm và tư vấn cho khách hàng phương pháp khắc phục hiệu quả, đơn giản và tiết kiệm.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">-&nbsp;<strong>Khám và tư vấn hoàn toàn miễn phí</strong>: khách hàng khi sử dụng dịch vụ tại Bệnh Viện Mắt Sài Gòn Phú Thọ sẽ được hỗ trợ tư vấn và thăm khám hoàn toàn miễn phí cả trước và sau khi điều trị.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">-&nbsp;<strong>Luôn lựa chọn giải pháp hiệu quả và tối ưu cho khách hàng</strong>: trước mỗi ca điều trị, bác sĩ tại Bệnh Viện Mắt Sài Gòn Phú Thọ luôn nỗ lực tìm và tư vấn cho khách hàng phương pháp khắc phục hiệu quả, đơn giản và tiết kiệm.</span></p>
                                 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">-&nbsp;<strong>Chỉ điều trị khi khách hàng đảm bảo được điều kiện sức khỏe tốt</strong>: bác sĩ sẽ chỉ quyết định cho khách hàng thực hiện, khi đáp ứng được pháp đồ điều trị an toàn.</span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/bacsi%20tu%20van.png" alt="bac-si-tu-van" width="560"></span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em>&nbsp;Bác sĩ khám và tư vấn cho bệnh nhân&nbsp;</em></span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Tiêu chí Nha khoa Quốc tế Việt Đức luôn muốn hướng đến khách hàng, đó là: Tiết kiệm – Hiệu quả – An Toàn. Để có được điều này, khách hàng khi đến với nha khoa, sẽ được các bác sĩ hỗ trợ tư vấn, chuẩn đoán và đưa ra phác đồ điều trị tốt.</span></p>
-                                <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-08.jpg" alt="Đội ngũ bác sĩ-12" width="560"></span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">&nbsp;</span></p>
-                                <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-09.jpg" alt="Đội ngũ bác sĩ-13" width="560"></span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Tiêu chí Bệnh Viện Mắt Sài Gòn Phú Thọ luôn muốn hướng đến khách hàng, đó là: Tiết kiệm – Hiệu quả – An Toàn. Để có được điều này, khách hàng khi đến với nha khoa, sẽ được các bác sĩ hỗ trợ tư vấn, chuẩn đoán và đưa ra phác đồ điều trị tốt.</span></p>
+                                
                                 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">&nbsp;</span></p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><img src="https://static.nhakhoavietduc.com.vn/Bai pr doi ngu bac si/%23U0110%23U1ed9i%20ng%23U0169%20b%23U00e1c%20s%23U0129-10.jpg" alt="Đội ngũ bác sĩ-11" width="560"></span></p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em>Liên hệ ngay với nhân viên tư vấn theo số <strong><span style="color: #ff0000;">Hotline: 19006465</span></strong>, hoặc đặt lịch khám
-                                    với bác sĩ nha khoa Quốc tế việt Đức</em>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><em>Liên hệ ngay với nhân viên tư vấn theo số <strong><span style="color: #ff0000;">Hotline: 19006465</span></strong>, hoặc đặt lịch khám với bác sĩ Bệnh Viện Mắt Sài Gòn Phú Thọ</em>
                                     </span>
                                 </p>
                                 <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""><em><img src="https://static.nhakhoavietduc.com.vn/Bai%20cong%20nghe%20hien%20dai/dat-lich.jpg" alt="dat-lich" width="560"></em></a></span></p>
@@ -801,7 +657,7 @@ else{
                         <h2 class="homeTitle homeTitle-center"></h2>
                         <div class="tit">
                             <h2 class="homeTitle homeTitle-center">
-                                Tư vấn nha khoa
+                                Tư vấn Về Mắt
                             </h2>
                             <div class="homeLine homeLine-left">
                                 <h2 class="homeTitle homeTitle-center"></h2>
@@ -812,7 +668,7 @@ else{
                         <h2 class="homeTitle homeTitle-center"></h2>
                         <div class="tit">
                             <h2 class="homeTitle homeTitle-center">
-                                Tin nha khoa
+                                Tin viện Mắt
                             </h2>
                             <div class="homeLine homeLine-left">
                                 <h2 class="homeTitle homeTitle-center"></h2>

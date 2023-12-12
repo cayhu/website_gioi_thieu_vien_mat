@@ -35,7 +35,7 @@
                     <h2 class="homeTitle homeTitle-center"></h2>
                     <div class="tit">
                         <h2 class="homeTitle homeTitle-center">
-                            Tư vấn nha khoa
+                            Tư vấn Về Mắt
                         </h2>
                         <div class="homeLine homeLine-left">
                             <h2 class="homeTitle homeTitle-center"></h2>
@@ -46,7 +46,7 @@
                     <h2 class="homeTitle homeTitle-center"></h2>
                     <div class="tit">
                         <h2 class="homeTitle homeTitle-center">
-                            Tin nha khoa
+                            Tin Viện Mắt
                         </h2>
                         <div class="homeLine homeLine-left">
                             <h2 class="homeTitle homeTitle-center"></h2>
@@ -225,14 +225,14 @@
                                         src="https://static.nhakhoavietduc.com.vn/2021/07/31/21909985841356258532125105921772915875086182n.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/thuc-hien-tiem-chung.php">
+                                    <a class="dec" href="tin-ve-mat/thuc-hien-tiem-chung.php">
                                         Thực hiện tiêm chủng Vaccine Covid -19, Nha khoa Quốc tế Việt Đức sẵn sàng tham
                                         gia cùng ngành Y tế chống dịch
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/thuc-hien-tiem-chung.php">
+                                    <a class="reply" href="tin-ve-mat/thuc-hien-tiem-chung.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/thuc-hien-tiem-chung.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/thuc-hien-tiem-chung.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -241,13 +241,13 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/18/screenshot2.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/nu-cuoi-danh-tang-bo.php">
+                                    <a class="dec" href="tin-ve-mat/nu-cuoi-danh-tang-bo.php">
                                         Nụ cười dành tặng bố - Tìm lại nụ cười để hiểu nhau và hạnh phúc hơn
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/nu-cuoi-danh-tang-bo.php">
+                                    <a class="reply" href="tin-ve-mat/nu-cuoi-danh-tang-bo.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/nu-cuoi-danh-tang-bo.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/nu-cuoi-danh-tang-bo.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -256,14 +256,14 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/17/c614b74ecf31376f6e20.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/ms-xuc-dong.php">
+                                    <a class="dec" href="tin-ve-mat/ms-xuc-dong.php">
                                         Ts.Bs Mậu xúc động tri ân Người Thầy quá cố của mình Ts.Bs CKI Lê Văn Thạch -
                                         Nguyên Chủ nhiệm khoa RHM Bệnh viện 108
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/ms-xuc-dong.php">
+                                    <a class="reply" href="tin-ve-mat/ms-xuc-dong.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/ms-xuc-dong.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/ms-xuc-dong.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -272,13 +272,13 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/16/screenshot1.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/review-tiec-tat-nien.php">
+                                    <a class="dec" href="tin-ve-mat/review-tiec-tat-nien.php">
                                         Review tiệc tất niên 2019 - Công ty Cổ Phần y Dược Quốc tế Việt Đức
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/review-tiec-tat-nien.php">
+                                    <a class="reply" href="tin-ve-mat/review-tiec-tat-nien.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/review-tiec-tat-nien.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/review-tiec-tat-nien.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -287,14 +287,14 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/15/screenshot8.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/dong-dao-cac-nghe-si.php">
+                                    <a class="dec" href="tin-ve-mat/dong-dao-cac-nghe-si.php">
                                         Đông đảo các nghệ sĩ khách mời đặc biệt tham dự chương trình tất niên - Year End
                                         Party 2019
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/dong-dao-cac-nghe-si.php">
+                                    <a class="reply" href="tin-ve-mat/dong-dao-cac-nghe-si.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/dong-dao-cac-nghe-si.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/dong-dao-cac-nghe-si.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -303,13 +303,13 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/14/f5a0136.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/cong-ty-co-phan.php">
+                                    <a class="dec" href="tin-ve-mat/cong-ty-co-phan.php">
                                         Công ty Cổ phần Y dược Quốc tế Việt Đức rộn ràng Tiệc tất niên
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/cong-ty-co-phan.php">
+                                    <a class="reply" href="tin-ve-mat/cong-ty-co-phan.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/cong-ty-co-phan.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/cong-ty-co-phan.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -318,13 +318,13 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/14/f5a0063.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/thu-cam-on-khach-hang.php">
+                                    <a class="dec" href="tin-ve-mat/thu-cam-on-khach-hang.php">
                                         Thư cảm ơn quý khách hàng - Đối tác của Công ty cổ phần Y dược quốc tế Việt Đức
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/thu-cam-on-khach-hang.php">
+                                    <a class="reply" href="tin-ve-mat/thu-cam-on-khach-hang.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/thu-cam-on-khach-hang.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/thu-cam-on-khach-hang.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">
@@ -333,13 +333,13 @@
                                         src="https://static.nhakhoavietduc.com.vn/2020/01/13/cream-and-mint-singles-awareness-day-quote-instagram-post.jpg">
                                 </div>
                                 <div class="box-item-2">
-                                    <a class="dec" href="tin-nha-khoa/TS.BS-trinh-duc-mau.php">
+                                    <a class="dec" href="tin-ve-mat/TS.BS-trinh-duc-mau.php">
                                         TS.BS Trịnh Đức Mậu – Đôi bàn tay tài hoa kiến tạo những nụ cười vàng
                                     </a>
-                                    <a class="reply" href="tin-nha-khoa/TS.BS-trinh-duc-mau.php">
+                                    <a class="reply" href="tin-ve-mat/TS.BS-trinh-duc-mau.php">
                                         xem thêm
                                     </a>
-                                    <a class="more" href="tin-nha-khoa/TS.BS-trinh-duc-mau.php">&gt;</a>
+                                    <a class="more" href="tin-ve-mat/TS.BS-trinh-duc-mau.php">&gt;</a>
                                 </div>
                             </div>
                             <div class="box-item">

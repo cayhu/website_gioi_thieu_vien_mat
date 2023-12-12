@@ -18,10 +18,10 @@ include_once('../header-phu.php');
         </div>
         <div class="before__box">
             <ul class="tabs flex justify-content-center" id="tabimg">
-                <li class="tab-link btn current" data-tab="tab-2">Cấy răng implant</li>
-                <li class="tab-link btn " data-tab="tab-3">Bọc răng sứ</li>
-                <li class="tab-link btn " data-tab="tab-4">Niềng răng</li>
-                <li class="tab-link btn " data-tab="tab-5">Tẩy trắng răng</li>
+                <li class="tab-link btn current" data-tab="tab-2">Cận Thị 1</li>
+                <li class="tab-link btn " data-tab="tab-3">Loạn thị 2</li>
+                <li class="tab-link btn " data-tab="tab-4">Đục lục thể 3</li>
+                <li class="tab-link btn " data-tab="tab-5">khúc xạ 4</li>
             </ul>
 
             <div class="tab-content current" id="tab-2">
@@ -32,41 +32,41 @@ include_once('../header-phu.php');
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/d5cf17a43143cd1d94528-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/f2ba66d74030bc6ee5217-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/ebf4cc9fea7816264f696-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/ec7b9411b2f64ea817e79-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/15/0b33858fdf5e2000794f-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/5-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/6-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                             </div>
@@ -82,52 +82,52 @@ include_once('../header-phu.php');
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/1ddf3f20d0c72c9975d63.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/75a0a75e48b9b4e7eda84-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/555562a58d42711c28531-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/c6029cf273158f4bd6042-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/11/f037ecc9032eff70a63f5-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
                                         <img alt=""
-                                            src="https://static.nhakhoavietduc.com.vn/2020/09/15/8cc903af587ea720fe6f-1.jpg">
+                                            src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/9-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/10-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/11-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                             </div>
@@ -142,97 +142,97 @@ include_once('../header-phu.php');
                             <div class="row">
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/1-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/2-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/3-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/4-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/5-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/6-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/7-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/9-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/8-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/10-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/11-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/13-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/11/15-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/17-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/16-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/18-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/19-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/21-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 item">
                                     <a>
-                                        <img alt="" src="https://static.nhakhoavietduc.com.vn/2020/09/15/20-1.jpg">
+                                        <img alt="" src="../images/logo/icon-logo.png">
                                     </a>
                                 </div>
                             </div>

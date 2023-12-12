@@ -23,50 +23,18 @@
                 </a>
             </li>
             <li>
-                <a href="../khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php" target="_self">
+                <a href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php" target="_self">
                     Điều trị laser
                 </a>
             </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Nieng-rang-mat-trong.php" target="_self">
-                    Điều trị Glaucoma
-                </a>
-            </li>
+            
             <li>
                 <a href="../khiem-tra-chuan-doan/Dinh-da-len-rang.php" target="_self">
                     Điều trị các bệnh về mắt
                 </a>
             </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Tay-trang-rang.php" target="_self">
-                    Dịch kính võng mạc
-                </a>
-            </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Nieng-rang-mat-trong.php" target="_self">
-                    Tạo hình thẩm mỹ mắt
-                </a>
-            </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php" target="_self">
-                    Chẩn đoán hình ảnh
-                </a>
-            </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Trong-rang-implant.php" target="_self">
-                    Nhược thị
-                </a>
-            </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Dan-su-Veneer.php" target="_self">
-                    Xét nghiệm
-                </a>
-            </li>
-            <li>
-                <a href="../khiem-tra-chuan-doan/Nieng-rang-trong-suot-Invisalign.php" target="_self">
-                   Kiểm soát cận thị tiến triển
-                </a>
-            </li>
+            
+            
         </ul>
     </div>
 
@@ -90,22 +58,7 @@
             </li>
             <li>
                 <a href="../tu-van-phau-thuat/Nho-rang-an- toan-song-sieu-am-Piezotome.php" target="_self">
-                    Phẫu thuật Femto
-                </a>
-            </li>
-            <li>
-                <a href="../tu-van-phau-thuat/Dieu-tri-viem-nha-chu.php" target="_self">
-                    Phẫu thuật Lasik dao OUP
-                </a>
-            </li>
-            <li>
-                <a href="../tu-van-phau-thuat/Lay-cao-rang-song-sieu-am.php" target="_self">
-                    Crosslinking Khúc xạ
-                </a>
-            </li>
-            <li>
-                <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                    Phẫu thuật Phakic ICL EVO+
+                    Phẫu thuật Femto Phakic ICL EVO+
                 </a>
             </li>
             <li>
@@ -115,22 +68,6 @@
             </li><li>
                 <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
                     Phẫu thuật Lác
-                </a>
-            </li><li>
-                <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                    Phẫu thuật Glôcôm (Glaucoma)
-                </a>
-            </li><li>
-                <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                    Phẫu thuật Kết Mạc, Giác Mạc
-                </a>
-            </li><li>
-                <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                    Phẫu thuật Mộng
-                </a>
-            </li><li>
-                <a href="../tu-van-phau-thuat/Nha-khoa-tre-em.php" target="_self">
-                    Phẫu thuật Quặm
                 </a>
             </li>
         </ul>

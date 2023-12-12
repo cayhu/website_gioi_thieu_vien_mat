@@ -48,7 +48,7 @@ include_once('../header-phu.php');
                                         alt="" width="500" height="500"></p>
                                 <p style="text-align: center;"><em>Điều trị viêm nha chu</em></p>
                                 <p style="text-align: center;"><em><a href=""><img
-                                                src="../icon/dang-ky-tu-van-icon.png"
+                                                src="../images/icon/dang-ky-tu-van-icon.png"
                                                 alt="dang-ky-tu-van" width="229" height="84"></a></em></p>
                                 <h2><strong>Dấu hiệu và triệu chứng của viêm nha chu</strong></h2>
                                 <p>Giai đoạn đầu của&nbsp;<strong>viêm nha chu</strong>&nbsp;chính là viêm nướu,

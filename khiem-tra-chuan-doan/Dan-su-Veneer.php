@@ -9,7 +9,7 @@ include_once('../header-phu.php');
                     Kiểm Tra Chẩn Đoán »
                 </span>
                 <b>
-                    Dán sứ Veneer lựa chọn hoàn hảo giúp bảo vệ răng, mang lại nụ cười đẹp dưới mọi góc nhìn
+                    KHÁM TỔNG QUÁT LÀ GÌ, PHẪU THUẬT LASIK ĐƯỢC THỰC HIỆN KHI NÀO?
                 </b>
             </span>
         </span>
@@ -22,28 +22,20 @@ include_once('../header-phu.php');
                         include_once('../sub.php');
                         ?>
             <div class="col-lg-9 col-md-9 col-sm-9 col-xs-6 post__right">
-                <h1 class="title-post">Dán sứ Veneer lựa chọn hoàn hảo giúp bảo vệ răng, mang lại nụ cười đẹp dưới mọi
-                    góc nhìn</h1>
+                <h1 class="title-post">PHẪU THUẬT LASIK - LỰA CHỌN LÝ TƯỞNG CHO THỊ LỰC HOÀN HẢO</h1>
                 <section class="content loaded">
                     <div class="chi-tiet scroll_check">
                         <div class="post_info">
-                            <div class="post_author pc">Tác giả: <a>admin</a> * Tham vấn y khoa: <a>Chuyên gia Nha Khoa
-                                    Quốc Tế Việt Đức</a></div>
+                            <div class="post_author pc">Tác giả: <a>admin</a> * Tham vấn y khoa: <a>Chuyên gia Quốc Tế Viện Măt Sài Gòn Phú Thọ </a></div>
                             <div class="post_info_box">
-                                <p><i class="fa-solid fa-calendar"></i> 23/09/2019</p>
+                                <p><i class="fa-solid fa-calendar"></i> 23/09/2023</p>
                             </div>
                         </div>
-                        <div class="sapo">Dán sứ Veneer&nbsp;là lựa chọn hoàn hảo giúp bảo vệ răng, mang lại nụ cười đẹp
-                            dưới mọi góc nhìn. Công nghệ làm răng sứ thẩm mỹ tân tiến của Đức, giúp hoàn thiện trong
-                            vòng 1 ngày, sử dụng trọn đời và không xâm lấn, bảo tồn
-                            răng gốc tối đa.</div>
+                        <div class="sapo">PHẪU THUẬT LASIK&nbsp;là lựa chọn lý tưởng giúp cải thiện thị lực một cách nhanh chóng, hiệu quả và an toàn. Ứng dụng công nghệ Laser Excimer tiên tiến nhất thế giới, LASIK điều chỉnh các tật khúc xạ đưa thị lực về mức 1.0 mà không cần đeo kính, lens. Khám mắt tổng quát phù hợp với mọi đối tượng, cung cấp các dịch vụ khám tổng thể cơ bản giúp phát hiện sớm các dấu hiệu, nguy cơ hình thành bệnh ở mắt người. Từ đó có những phương pháp điều trị kịp thời.</div>
                         <div class="post_desc">
                             <div class="service-detail-brief">
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>Dán
-                                            sứ Veneer</strong>&nbsp;là lựa chọn hoàn hảo giúp bảo vệ răng, mang lại nụ
-                                        cười đẹp dưới mọi góc nhìn. Công nghệ làm răng sứ thẩm mỹ tân tiến của Đức,
-                                        giúp hoàn thiện trong vòng 1 ngày, sử dụng trọn đời và không xâm lấn,&nbsp;bảo
-                                        tồn răng gốc tối đa.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>Phẫu thuật LASIK</strong>&nbsp;tại <strong>Bệnh viện Mắt Sài Gòn Phú Thọ</strong> với đội ngũ bác sĩ chuyên khoa giỏi, kinh nghiệm sẽ giúp bạn sở hữu đôi mắt hoàn hảo nhất. Khám mắt tổng quát, tư vấn, kiểm tra toàn diện để LASIK đem lại kết quả thị lực tốt nhất cho từng cá nhân.</span></p>
+                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>Dịch vụ khám Mắt Tổng quát</strong>&nbsp;của Bệnh viện Mắt Sài Gòn Phú Thọ cung cấp khám mắt toàn diện, chẩn đoán phát hiện sớm các bệnh về mắt, điều trị, chăm sóc và theo dõi liên tục cho tất cả các loại tình trạng của mắt, mí mắt và thị lực.Bác sĩ sẽ thực hiện đánh giá toàn bộ mắt để xác định nguyên nhân gây ra các vấn đề về mắt, mí mắt hoặc thị lực. Điều trị có thể bao gồm kính đeo mắt, kính áp tròng, thuốc dưới dạng thuốc nhỏ mắt hoặc thuốc viên, thủ thuật y tế hoặc phẫu thuật.</span></p>
                             </div>
                             <div class="service-detail-desc" style="text-align: center;">&nbsp;<img
                                     src="https://static.nhakhoavietduc.com.vn/DAN%20SU%20VENEER.png" alt="" width="500"
@@ -56,25 +48,10 @@ include_once('../header-phu.php');
                                             sứ Veneer “lá chắn" bảo vệ răng thật</em>&nbsp;</span></p>
                                 <h2 style="text-align: justify;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>I/
-                                            Ai phù hợp với dán sứ veneer?</strong></span></h2>
+                                        Khi nào cần khám mắt tổng quát ?</strong></span></h2>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>Dán&nbsp;sứ
-                                            Veneer</strong>&nbsp;công nghệ Đức đi đầu xu hướng thẩm mỹ không xâm lấn,
-                                        phù hợp với trường hợp làm răng sứ thẩm mỹ và là bí quyết cho những nụ cười
-                                        đẳng cấp.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>-</strong>&nbsp;Răng
-                                        bị sứt, mẻ nhỏ.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>-&nbsp;</strong>Răng
-                                        bị thưa hoặc hô,&nbsp;khấp khểnh&nbsp;nhẹ...</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Răng bị
-                                        xỉn màu, ố vàng nặng, răng nhiễm kháng sinh không thể phục hồi bằng tẩy
-                                        trắng.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Mặt răng
-                                        không nhẵn bóng hoặc hao mòn trong quá trình ăn nhai.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong></strong>Khi có nhu cầu kiểm tra mắt tổng quát để phát hiện sớm các bệnh lý của mắt. Có dấu hiệu bất thường ở mắt như khó chịu, đau nhức, đỏ mắt,….. Đặc biệt là những bệnh nhân trên 40 tuổi, bắt đầu có thể xuất hiện sớm các bệnh lý của mắt:Khám, theo dõi và điều trị bệnh võng mạc đái tháo đường ở những người bị đái tháo đường có hoặc chưa có bệnh võng mạc đái tháo đường. Khám, theo dõi và điều trị các bệnh glôcôm ở những người bị glôcôm, những người có nguy cơ cao bị glôcôm (tiền sử gia đình có người bị glôcôm, cận thị nặng, chấn thương mắt nặng). Khám, theo dõi và điều trị tật khúc xạ </span></p>
+                                
                                 <p style="text-align: center;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
                                             target="_blank" rel="nofollow"><img
@@ -84,90 +61,31 @@ include_once('../header-phu.php');
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px;">&nbsp;<em>Dán
                                             sứ Veneer hiệu quả với hầu hết răng sai lệch và nhiễm màu
                                             nặng</em></span></p>
-                                <h2 style="text-align: left;"><span
+                                            <h2 style="text-align: justify;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>II/
-                                            Ưu và nhược điểm dán sứ veneer</strong></span></h2>
-                                <table style="height: 441px; margin-left: auto; margin-right: auto;" border="."
-                                    width="853">
-                                    <caption><span
-                                            style="font-family: arial, helvetica, sans-serif; font-size: 13px;">&nbsp;</span>
-                                    </caption>
-                                    <tbody>
-                                        <tr>
-                                            <td style="text-align: center;"><span
-                                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #ff6600;">ƯU
-                                                    ĐIỂM</span></td>
-                                            <td style="text-align: center;"><span
-                                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #ff6600;">NHƯỢC
-                                                    ĐIỂM</span></td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-
-                                                        Mặt dán sứ veneer hạn chế tối đa việc mài răng, bảo vệ răng thật
-                                                        tối đa.&nbsp;</span></p>
-                                            </td>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-
-                                                        Kĩ thuật làm răng tương đối khó nên đòi hỏi bác sĩ thực hiện
-                                                        phải có tay nghề cao, sử dụng công nghệ hiện đại.</span></p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-
-                                                        Kết cấu siêu mỏng 0,03 cm mang đến vẻ trắng sáng tự nhiên, hình
-                                                        thể như răng thật</span></p>
-                                            </td>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-
-                                                        Chi phí cao hơn các loại răng sứ thông thường.</span></p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-
-                                                        Rút ngắn thời gian chỉ từ 1-3 ngày, không mất nhiều thời gian
-                                                        tái khám.</span></p>
-                                            </td>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-
-                                                        Đạt hiệu quả thẩm mỹ cao nhất trong các trường hợp răng thưa,
-                                                        hô, sứt mẻ nhẹ hoặc trường hợp răng nhiễm kháng sinh.</span></p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-&nbsp;Dán
-                                                        sứ veneer&nbsp;sử dụng trên các chất liệu toàn sứ cao cấp nhập
-                                                        khẩu chính hãng, thích ứng nhanh và tuổi thọ sử dụng lâu
-                                                        dài.</span></p>
-                                            </td>
-                                            <td>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">&nbsp;</span>
-                                                </p>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">&nbsp;</span>
-                                                </p>
-                                                <p><span
-                                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">&nbsp;</span>
-                                                </p>
-                                            </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <br><span
-                                    style="font-family: arial, helvetica, sans-serif; font-size: 13px; color: #008080;"><strong><iframe
-                                            src="https://www.youtube.com/embed/DturQ3bt14E" width="560" height="315"
-                                            frameborder="0" allowfullscreen="allowfullscreen"></iframe></strong></span>
+                                            AI CẦN KHÁM MẮT ĐỊNH KỲ?</strong></span></h2>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>Khám&nbsp;mắt</strong>&nbsp;định kỳ phù hợp với mọi lứa tuổi để phát hiện sớm các vấn đề về thị lực và mắt.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>-</strong>&nbsp;Người già trên 40 tuổi dễ bị các bệnh lý về mắt như đục thủy tinh thể, thoái hóa điểm vàng, tăng nhãn áp...</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>-&nbsp;</strong>Trẻ em cần theo dõi sự phát&nbsp;triển của mắt&nbsp;, phát hiện chệch khúc xạ để kịp thời điều trị...</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Người làm việc với máy tính lâu ngày dễ mắc các bệnh về mắt do tiếp xúc ánh sáng xanh.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Phụ nữ mang thai hoặc cho con bú cần bổ sung vitamin, khoáng chất cho mắt.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Người bị chóng mặt, nhức đầu thường xuyên cũng nên khám mắt để phát hiện sớm tăng nhãn áp.</span></p>
+                                <p style="text-align: center;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
+                                            target="_blank" rel="nofollow"><img
+                                                src="https://static.nhakhoavietduc.com.vn/2017/08/04/cac-truong-hop-dan-su.jpg"
+                                                alt="cac-truong-hop-dan-su" width="560"></a></span></p>
+                                <p style="text-align: center;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">&nbsp;<em>Dán
+                                            sứ Veneer hiệu quả với hầu hết răng sai lệch và nhiễm màu
+                                            nặng</em></span></p>
+                                
                                 <h2 style="text-align: justify;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>III/
                                             Khách hàng dán sứ Veneer tại Nha khoa Quốc tế Việt Đức</strong></span></h2>
@@ -235,7 +153,7 @@ include_once('../header-phu.php');
                                             thuộc vào tình trạng của từng người</span></em></p>
                                 <h2 style="text-align: justify;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>IV/
-                                            Quy trình dán sứ Veneer tại Nha khoa Quốc tế Việt Đức</strong></span></h2>
+                                            Quy trình chung của dịch vụ Khám tổng quát tai Bệnh Viện Mắt Sài Gòn Phú Thọ</strong></span></h2>
                                 <p style="text-align: justify;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Tất cả quy
                                         trình tại nha khoa quốc tế Việt Đức đều thực hiện theo đúng quy chuẩn của nha
@@ -247,40 +165,45 @@ include_once('../header-phu.php');
                                     </span>
                                 </p>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Bác sĩ khám
-                                        tổng quát tình trạng răng miệng, điều trị bệnh lý (nếu có). Phân tích khớp cắn,
-                                        tỷ lệ thẩm mỹ khuôn mặt và thiết kế nụ cười. Tư vấn cho bệnh nhân giải pháp và
-                                        lộ trình thực hiện.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Đăng ký thăm khám mắt tổng quát tại<strong>Bệnh viện Mắt Sài Gòn Phú Thọ</strong>ại quầy thu ngân.</span></p>
                                 <p style="text-align: justify;"><span
                                         style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>-&nbsp;
-                                            Bước 2: Vệ sinh và sát khuẩn răng</em></span></p>
+                                            Bước 2: Đo khúc xạ</em></span></p>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Vệ sinh và
-                                        sát khuẩn răng, khoang miệng kỹ lưỡng để đảm bảo sạch khuẩn. Tất cả dụng cụ thực
-                                        hiện được hấp sấy vô khuẩn theo quy trình của Châu Âu, trước khi thực
-                                        hiện.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>-
-                                            Bước 3: Gây tê, xử lý bề mặt răng</em></span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Sau khi gây
-                                        tê, bác sĩ sẽ tiến hành xử lý bề mặt răng để tăng độ kết dính với sứ và giúp
-                                        hình thể răng sứ đẹp nhất sau khi gắn.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>-
-                                            Bước 4: &nbsp;Lấy mẫu răng</em></span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Bác sĩ sẽ
-                                        sử dụng camera quét phân tích, đo đạc và lấy mẫu, gửi về phòng labor chế
-                                        tác.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Chụp khúc xạ tự động.</span></p>
+                                        <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Thử thị lực và cấp đơn kính.</span></p>
+                                        <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Đo thị lực</span></p>
+                                        <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Soi bóng đồng tử.</span></p>
+                                        <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Thử kính và cân bằng 2 mắt.</span></p>
+                                        <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Tra thuốc liệt điều tiết.</span></p>
+                                        <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Tư vấn và cấp đơn kính.</span></p>
                                 <p style="text-align: justify;"><span
                                         style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>-
-                                            Bước 5: Gắn mặt sứ veneer lên răng</em></span></p>
+                                            Bước 3: Khám Bác Sĩ</em></span></p>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Kết hợp với
-                                        đèn laser, bác sĩ hoàn thiện gắn mặt sứ Veneer lên răng. Trong quá trình gắn bác
-                                        sĩ sẽ dùng các kỹ thuật nha khoa và thẩm mỹ để điều chỉnh cung hàm, lợi, răng
-                                        thiết kế nụ cười cân đối với khuôn mặt khách hàng.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Khám bán phần trước.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Khám bán phần sau.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Kết luận kê đơn thuốc, đơn kính hoặc chỉ định cận lâm sàng.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Một số bước khác cần chỉ định của bác sĩ và có thể phát sinh thêm chi phí:</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Đo nhãn áp.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Siêu âm mắt để phát hiện các bệnh lý của võng mạc, dịch kính.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Chụp OCT võng mạc để đánh giá tình trạng phù nề của võng mạc, Chụp mạch huỳnh quang kỹ thuật số để phát hiện các tổn thương thiếu máu, tân mạch…của võng mạc.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Chụp OCT bán phần trước để đánh giá độ mở của góc tiền phòng, OCT bán phần sau để kiểm tra sự bình thường của võng mạc và thần kinh thị giác.</span></p>
+                                <p style="text-align: justify;"><span
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">+ Đếm tế bào nội mô giác mạc và đo chiều dày giác mạc.</span></p>
                                 <p style="text-align: center;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""
                                             target="_blank" rel="nofollow"><img
@@ -301,90 +224,44 @@ include_once('../header-phu.php');
                                             target="_blank" rel="nofollow"><img
                                                 src="https://static.nhakhoavietduc.com.vn/2017/08/04/bang-gia-dan-su-veneer.jpg"
                                                 alt="bang-gia-dan-su-veneer" width="560"></a>&nbsp;</span></p>
-                                <h2 style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>VI/
-                                            Tại sao nên chọn Dán mặt sứ veneer tại Nha khoa Quốc tế Việt
-                                            Đức</strong></span></h2>
-                                <p style="text-align: left;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dán sứ
-                                        Veneer là phương pháp thẩm mỹ răng với nhiều ưu điểm vượt trội, đi đầu về sự tự
-                                        nhiên và không xâm lấn, vì vậy bác sĩ thực hiện cần có tay nghề cao và giàu kinh
-                                        nghiệm, trang thiết bị tân tiến đáp ứng đầy đủ tiêu chuẩn về sự an toàn và kỹ
-                                        thuật dán sứ veneer, đảm bảo mang lại kết quả thẩm mỹ tốt nhất cho khách
-                                        hàng.&nbsp;</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dán sứ tại
-                                        Nha khoa Quốc tế Việt Đức, khách hàng được trải nghiệm dịch vụ chuẩn Quốc tế với
-                                        trang thiết bị và quy trình thực hiện theo tiêu chuẩn hiện đại Châu
-                                        Âu.&nbsp;</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Top 5 nha
-                                        khoa uy tín Việt Nam. Thực hiện thành công hơn 20.000 ca mỗi năm.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Nha khoa
-                                        chuẩn 5 Sao Quốc tế, cơ sở và công nghệ độc quyền của Châu Âu.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Đội ngũ
-                                        bác sĩ chuyên sâu về răng hàm mặt, thẩm mỹ tu nghiệp tại Pháp, Ý và Hàn Quốc.
-                                        Đứng đầu là Ts.Bs Trịnh Đức Mậu - Bàn tay vàng nha khoa Việt Nam</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Ứng dụng
-                                        hệ thống máy tính thông minh 5D CAD/CAM CEREC mô phỏng chính xác, thiết kế răng
-                                        sứ bền nhiều lần so răng sứ thông thường.</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">-&nbsp;<span
-                                            style="color: #3366ff;"><a style="color: #3366ff;" href="">Phầm mềm thiết kế
-                                                nụ cười (Smile Design sofware)</a></span>&nbsp;giúp
-                                        tạo nụ cười tự nhiên, thẩm mỹ. Kết hợp giữa răng, cung hàm và các yếu tố môi,
-                                        nướu, khuôn mặt, hỗ trợ bác sĩ tạo ra nụ cười đẹp, chuẩn tỉ lệ vàng cho từng
-                                        khách hàng.</span>
-                                </p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Vật liệu
-                                        sứ được nhập khẩu trực tiếp tại Đức, Ý,...</span></p>
-                                <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Chế độ
-                                        chăm sóc khách hàng và bảo hành cho khách hàng dài hạn lên đến 20 năm.</span>
-                                </p>
-                                <p style="text-align: justify;">&nbsp;</p>
-                                <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><iframe
-                                            src="https://www.youtube.com/embed/wYI8FOgT5Xo" width="560" height="315"
-                                            frameborder="0" allowfullscreen="allowfullscreen"></iframe></span></p>
-                                <p><em><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dán sứ
-                                            Veneer - Sự kì diệu cho nụ cười của bạn</span></em></p>
+                                                <h2 style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;"><strong>VI/
+                                        TẠI SAO NÊN ĐIỀU TRỊ MẮT TẠI BỆNH VIỆN MẮT SÀI GÒN?</strong></span></h2>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>Bệnh viện Mắt Quốc tế Sài Gòn Phú Thọ </strong>hoạt động và phát triển <strong> 15 năm</strong>, minh chứng cho chất lượng dịch vụ và sự tin tưởng của khách hàng. <strong>Bệnh viện Mắt Quốc tế Sài Gòn Phú Thọ </strong>đã thực hiện thành công hơn <strong>20.000 ca phẫu thuật mắt</strong>. Thương hiệu được bầu chọn <strong>“Top 10 bệnh viện mắt uy tín tại Việt Nam”</strong>. Đặc biệt, là địa chỉ tin cậy của các bác sĩ, chính trị gia, MC và người nổi tiếng. Khi phẫu thuật tại<strong> Bệnh viện Mắt Quốc tế Sài Gòn Phú Thọ </strong>, bệnh nhân sẽ được trải nghiệm:</span></p>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Đội ngũ bác sĩ giỏi, kinh nghiệm trên <strong>15 năm</strong>. Đứng đầu là Giáo sư,<strong> Tiến sĩ Lê Minh Hà</strong>, cựu Phó giáo sư trường <strong>Đại học Y Dược TP.HCM</strong>.</span></p>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Hệ thống trang thiết bị hiện đại tương đương bệnh viện mắt quốc tế.</span></p>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Ứng dụng công nghệ và quy trình phẫu thuật tiên tiến nhất.</span></p>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Công nghệ phẫu thuật tối thiểu xâm lấn, hạn chế đau đớn.</span></p>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;">- Chính sách bảo hành và chăm sóc hậu phẫu lâu dài.</span></p>
+                            <p style="text-align: justify;"><span
+                                    style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Chi phí phẫu thuật được tính dựa trên phương pháp và công nghệ áp dụng. Bệnh nhân có thể đặt lịch khám để được bác sĩ thăm khám, tư vấn cụ thể.</span></p>
                                 <h2 style="text-align: justify;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;">VII/
                                         Một số câu hỏi liên quan đến dán sứ Veneer tại Nha khoa Quốc tế Việt Đức</span>
                                 </h2>
                                 <h4 style="text-align: justify;"><span
                                         style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>1.
-                                            Dán sứ Veneer có tốt không?</em></span></h4>
+                                            Khám mắt tổng quát có cần thiết không?</em></span></h4>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dán sứ
-                                        Veneer là công nghệ hiện đại hiện nay, ngoài ý nghĩa giúp mang lại hàm răng
-                                        trắng đẹp tự nhiên còn có vai trò là các màng chắn bảo vệ răng thật.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Khám mắt tổng quát định kỳ 6-12 tháng một lần là cần thiết để sàng lọc phát hiện sớm các bệnh lý về mắt.</span></p>
                                 <h4 style="text-align: justify;"><span
                                         style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>2.
-                                            Sao giá dán sứ Veneer lại cao?</em></span></h4>
+                                        Tại sao chi phí khám mắt tổng quát lại cao?</em></span></h4>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Răng sứ
-                                        Veneer đòi hỏi công nghệ hiện đại và kỹ thuật bác sĩ cao trong quá trình thực
-                                        hiện. Đồng thời, răng sứ Veneer sử dụng nguyên liệu sứ cao cấp, nhập khẩu nguyên
-                                        chiếc nên giá của răng sứ veneer cao hơn các loại sứ thông thường.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Khám mắt tổng quát sử dụng trang thiết bị hiện đại, quy trình khám kỹ lưỡng, chi tiết cần nhiều công đoạn với sự thăm khám của bác sĩ chuyên khoa giỏi nên chi phí khám sẽ cao hơn so với khám thông thường. </span></p>
                                 <h4 style="text-align: justify;"><span
                                         style="color: #ff6600; font-family: arial, helvetica, sans-serif; font-size: 14px;"><em>3.
-                                            Dán sứ veneer có đau không?</em></span></h4>
+                                            Khám mắt tổng quát có đau không?</em></span></h4>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Dán sứ
-                                        veneer hạn chế tối đa việc mài răng, đồng thời trong quá trình thực hiện có hỗ
-                                        trợ của công nghệ gây tê, kiểm soát cơn đau hiện đại, nên khách hàng hoàn toàn
-                                        không có cảm giác đau trong quá trình thực hiện.</span></p>
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Khám mắt tổng quát được thực hiện nhẹ nhàng, từ từ. Các xét nghiệm cận lâm sàng như đo mắt, chụp OCT, quét đáy mắt...không gây đau cho người bệnh.</span></p>
                                 <p style="text-align: justify;"><span
-                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Nếu đang có
-                                        thắc mắc hoặc có nhu cầu đặt lịch sử dụng dịch vụ&nbsp;<strong>Dán sứ
-                                            Veneer</strong>&nbsp;tại nha khoa Quốc tế Việt Đức, khách hàng hãy liên
-                                        hệ&nbsp;<span style="color: #ff0000;"><strong>hotline 1900
-                                                6465</strong></span>&nbsp;hoặc
+                                        style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Nếu có nhu cầu khám mắt tổng quát, bạn có thể đặt lịch tại&nbsp;<strong>Bệnh viện Mắt Sài Gòn,</strong>&nbsp;bằng cách khách hàng hãy&nbsp;<span style="color: #ff0000;"><strong>liên hệ</strong></span>&nbsp;hoặc để lại thông tin 
                                         điền theo&nbsp;<span style="color: #ff0000;"><strong>Form
                                                 mẫu</strong></span>&nbsp;để được đội ngũ chuyên gia tư vấn chi tiết
                                         nhất.&nbsp;</span>
@@ -400,16 +277,14 @@ include_once('../header-phu.php');
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong><span
                                                 style="color: #ff0000; font-size: 12px;">&gt;&gt;</span>&nbsp;<span
                                                 style="color: #008000;"><a style="color: #008000;" href=""
-                                                    target="_blank">Dán sứ Veneer giải pháp cho hàm răng đẹp toàn
-                                                    diện</a></span></strong>
+                                                    target="_blank">Lý do nên khám mắt định kỳ 6 tháng/lần</a></span></strong>
                                     </span>
                                 </p>
                                 <p style="text-align: left;"><span
                                         style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong><span
                                                 style="color: #ff0000; font-size: 12px;">&gt;&gt;</span>&nbsp;<span
                                                 style="color: #008000;"><a style="color: #008000;" href=""
-                                                    target="_blank">Thời gian làm dán sứ Veneer mất bao lâu thì hoàn
-                                                    thành?</a></span></strong>
+                                                    target="_blank">Khám mắt bao gồm những xét nghiệm gì?</a></span></strong>
                                     </span>
                                 </p>
                                 <p style="text-align: center;">&nbsp;</p>

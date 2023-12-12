@@ -44,7 +44,7 @@ include_once('../header-phu.php');
                 </a>
             </div>
             <div class="home1__item">
-                <a class="text__item" href="../khiem-tra-chuan-doan/Nieng-rang-Braces-6S.php">
+                <a class="text__item" href="../khiem-tra-chuan-doan/Cat-loi-tham-my-cong-nghe-Laser.php">
                     <img alt="Niềng răng Braces 6S" class="img__h1 full_image"
                         src="../images/backgroud/dvu.png">
                     <span>Niềng răng Braces 6S</span>
@@ -99,7 +99,7 @@ include_once('../header-phu.php');
                 </a>
             </div>
             <div class="home1__item">
-                <a class="text__item" href="../khiem-tra-chuan-doan/Tram-rang-tham-my-laser.php">
+                <a class="text__item" href="">
                     <img alt="Trám răng thẩm mỹ laser 3.0" class="img__h1 full_image"
                         src="../images/backgroud/dvu.png">
                     <span>Trám răng thẩm mỹ laser 3.0</span>

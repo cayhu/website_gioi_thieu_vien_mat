@@ -1,7 +1,7 @@
 <div class="pyro"><div class="before"></div><div class="after"></div></div>
 <div class="row" style="margin-top: 20px;">
 	<div class="col-md-12 table-responsive">
-		<h3 style="text-align: center;margin-top:100px;">Chào mừng bạn đến với trang quản lý của H_SHOP chúc bạn có một ngày tốt lành</h3>
+		<h3 style="text-align: center;margin-top:100px;">Chào mừng bạn đến với trang quản lý của Viện Mắt Sài Gòn chúc bạn có một ngày tốt lành</h3>
 <?php
 if( $_SESSION['role_id'] == 1 ){
  ?>

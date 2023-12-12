@@ -51,7 +51,7 @@ include_once('../header-phu.php');
                                         src="https://static.nhakhoavietduc.com.vn/ee56903491326d6c3423.jpg" alt=""
                                         width="500" height="500"></p>
                                 <p style="text-align: center;"><strong><strong><a href=""><img
-                                                    src="../icon/dang-ky-tu-van-icon.png"
+                                                    src="../images/icon/dang-ky-tu-van-icon.png"
                                                     alt="dang-ky-tu-van" width="229" height="84"></a></strong></strong>
                                 </p>
                                 <h2 style="text-align: justify;"><span

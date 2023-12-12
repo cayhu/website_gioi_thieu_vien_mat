@@ -53,7 +53,7 @@ include_once('../header-phu.php');
                                         width="500" height="500"></span></p>
                             <p style="text-align: center;"><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""><img
-                                            src="../icon/dang-ky-tu-van-icon.png"
+                                            src="../images/icon/dang-ky-tu-van-icon.png"
                                             alt="dang-ky-tu-van" width="229" height="84"></a></span></p>
                             <h2><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: #008080;">I/
@@ -105,7 +105,7 @@ include_once('../header-phu.php');
                             </div>
                             <div style="text-align: center;"><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a href=""><img
-                                            src="../icon/dang-ky-tu-van-icon.png"
+                                            src="../images/icon/dang-ky-tu-van-icon.png"
                                             alt="dang-ky-tu-van" width="229" height="84"></a></span></div>
                             <h2><span
                                     style="font-family: arial, helvetica, sans-serif; font-size: 13px;">&nbsp;</span><span

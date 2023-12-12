@@ -59,7 +59,7 @@ include_once('../header-phu.php');
                                                             alt="" width="500" height="500"></p>
                                                     <p style="text-align: center;">
                                                         <a href=""><img
-                                                                src="../icon/dang-ky-tu-van-icon.png"
+                                                                src="../images/icon/dang-ky-tu-van-icon.png"
                                                                 alt="dang-ky-tu-van" width="229" height="84"></a>
                                                     </p>
                                                     <h2 style="text-align: justify;"><span
