@@ -164,19 +164,19 @@
                                             <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="nha-khoa-benh-ly/Han-rang.php" rel="nofollow"
+                                                        <a href="" rel="nofollow"
                                                             title="Phẫu thuật tật khúc xạ (Mổ cận)">
                                                             Phẫu thuật tật khúc xạ (Mổ cận)
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="nha-khoa-benh-ly/Dieu-tri-tuy-cong-nghe-X-Smart.php"
+                                                        <a href=""
                                                             rel="nofollow" title="Phẫu thuật Relex Smile">
                                                             Phẫu thuật Relex Smile
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="nha-khoa-benh-ly/Nho-rang-an- toan-song-sieu-am-Piezotome.php"
+                                                        <a href=""
                                                             rel="nofollow"
                                                             title="Phẫu thuật Femto">
                                                             Phẫu thuật Femto Phakic ICL EVO+
@@ -187,13 +187,13 @@
                                             <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Dinh-da-len-rang.php"
+                                                        <a href=""
                                                             rel="nofollow" title="Phẫu thuật Phaco điều trị đục thuỷ tinh thể">
                                                             Phẫu thuật Phaco điều trị đục thuỷ tinh thể
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-tao-cam-V-line.php"
+                                                        <a href=""
                                                             rel="nofollow" title="Phẫu thuật Lác">
                                                             Phẫu thuật Lác
                                                         </a>
@@ -221,19 +221,19 @@
                                                     <li>
                                                         <a href="../bang-gia/Bang-gia-chinh-nha-nieng-rang.php"
                                                             rel="nofollow" title="Bảng giá Chỉnh nha - Niềng răng">
-                                                            Bảng giá Chỉnh nha - Niềng răng
+                                                            Bảng giá Ch
                                                         </a>
                                                     </li>
                                                     <li>
                                                         <a href="../bang-gia/Bang-gia-boc-rang-su.php" rel="nofollow"
                                                             title="Bảng giá Bọc răng sứ">
-                                                            Bảng giá Bọc răng sứ
+                                                            Bảng giá B
                                                         </a>
                                                     </li>
                                                     <li>
                                                         <a href="../bang-gia/Bang-gia-cay-ghap-Implant.php"
                                                             rel="nofollow" title="Bảng giá Cấy ghép Implant">
-                                                            Bảng giá Cấy ghép Implant
+                                                            Bảng giá C
                                                         </a>
                                                     </li>
                                                     
