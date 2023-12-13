@@ -164,19 +164,19 @@
                                         <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="nha-khoa-benh-ly/Han-rang.php" rel="nofollow"
+                                                        <a href="" rel="nofollow"
                                                             title="Phẫu thuật tật khúc xạ (Mổ cận)">
                                                             Phẫu thuật tật khúc xạ (Mổ cận)
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="nha-khoa-benh-ly/Dieu-tri-tuy-cong-nghe-X-Smart.php"
+                                                        <a href=""
                                                             rel="nofollow" title="Phẫu thuật Relex Smile">
                                                             Phẫu thuật Relex Smile
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="nha-khoa-benh-ly/Nho-rang-an- toan-song-sieu-am-Piezotome.php"
+                                                        <a href=""
                                                             rel="nofollow"
                                                             title="Phẫu thuật Femto">
                                                             Phẫu thuật Femto Phakic ICL EVO+
@@ -187,13 +187,13 @@
                                             <div class="col-lg-6">
                                                 <ul>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Dinh-da-len-rang.php"
+                                                        <a href=""
                                                             rel="nofollow" title="Phẫu thuật Phaco điều trị đục thuỷ tinh thể">
                                                             Phẫu thuật Phaco điều trị đục thuỷ tinh thể
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="../khiem-tra-chuan-doan/Nieng-rang-tao-cam-V-line.php"
+                                                        <a href=""
                                                             rel="nofollow" title="Phẫu thuật Lác">
                                                             Phẫu thuật Lác
                                                         </a>
